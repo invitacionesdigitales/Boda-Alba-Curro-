@@ -147,6 +147,12 @@ img {
         font-weight: 400;
         color: rgb(141, 141, 141);
     }
+    .card-fecha{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 12px;
+        color: #9c9b9b;
+
+    }
     
 
 .container__footer{
